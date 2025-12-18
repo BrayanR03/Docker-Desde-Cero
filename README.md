@@ -12,6 +12,7 @@
 | Capítulo | Tema | Estado | Publicación |
 |-----------|------|--------|--------------|
 | 01 | Introducción a Docker | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/1-introducci%C3%B3n-a-docker) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7406691904526008320/) |
+| 02 | Imágenes y Contenedores | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-2-im%C3%A1genes-y-contenedores) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7407420315015733248/) |
 
 ---
 
@@ -22,6 +23,7 @@
 | Fecha |  Commit  | 
 |--------|-----------|
 | 2025-12-16 | 🧱 Introducción a Docker |
+| 2025-12-18 | 🧱 Imágenes y Contenedores |
 
 
 
