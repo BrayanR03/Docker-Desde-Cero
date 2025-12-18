@@ -3,7 +3,7 @@
 Las **imágenes** y **contenedores** son los **dos componentes fundamentales** del ecosistema Docker.  
 Entender su diferencia es esencial para comprender cómo funcionan los sistemas dockerizados.
 
-👉 Ejemplo en la siguiente carpeta: [Imagenes y Contenedores](https://github.com/BrayanR03/Docker-Desde-Cero/Code/02_docker_images_contenedores/)
+👉 Ejemplo en la siguiente carpeta: [Imagenes y Contenedores](https://github.com/BrayanR03/Docker-Desde-Cero/tree/main/Code/02_docker_images_contenedores)
 
 ---
 
