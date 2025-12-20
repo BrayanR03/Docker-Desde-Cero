@@ -35,3 +35,11 @@ CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
 
 #2.  Ejecutar el contenedor desde la imagen creada (Ejecutar en la terminal/cmd):
 # docker run -d --name nombre_contenedor -p 8000:8000  nombre_imagen
+
+#3. Ejecutar el contenedor con volumenes mapeados (imagen de postgres como ejemplo):
+# docker run -d \
+# --name postgres_contenedor \
+# -p 5432:5432 \
+# -e POSTGRES_PASSWORD=admin123 \
+# -v Code\03_port_mapping_volumenes\volumen_local:/var/lib/postgresql/18/docker \
+# postgres
