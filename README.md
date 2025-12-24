@@ -14,6 +14,7 @@
 | 01 | Introducción a Docker | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/1-introducci%C3%B3n-a-docker) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7406691904526008320/) |
 | 02 | Imágenes y Contenedores | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-2-im%C3%A1genes-y-contenedores) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7407420315015733248/) |
 | 03 | Port Mapping y Volúmenes | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-3-port-mapping-y-vol%C3%BAmenes) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7408147116302438423/) |
+| 04 | Docker Compose | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-4-docker-compose) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7409451886891655171/) |
 
 ---
 
@@ -26,6 +27,7 @@
 | 2025-12-16 | 🧱 Introducción a Docker |
 | 2025-12-18 | 🧱 Imágenes y Contenedores |
 | 2025-12-20 | 🧱 Port Mapping y Volúmenes |
+| 2025-12-23 | 🧱 Docker Compose |
 
 
 

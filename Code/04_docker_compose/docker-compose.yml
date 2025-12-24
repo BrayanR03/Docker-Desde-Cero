@@ -1,0 +1,26 @@
+## Docker Compose File
+
+## Pasos a seguir:
+# 1. Definir la versión de Docker Compose.
+version: "3.9" ## Version a utilizar de Docker
+
+# 2. Definir los servicios que se van a crear.
+services:
+  mcp_server: ## Servicio 1: MCP Server (Creado desde Dockerfile)
+    build: .  ## Construir la imagen desde el Dockerfile en el directorio actual
+    ports:
+      - "8000:8000" ## Mapear el puerto 8000 del contenedor al puerto 8000 de la máquina local
+    
+  api_fastapi: ## Servicio 2: API FastAPI (Usando una imagen existente)
+    image: rcero3/fastapi_image_brayan ## Imagen existente de Docker Hub
+    ports:
+      - "3000:8000" ## Mapear el puerto 8000 del contenedor al puerto 3000 de la máquina local
+
+# 3. Definir volúmenes si es necesario (En este ejemplo no lo usaré).
+# volumes:
+#   nombre_volumen: {} ## Definición de un volumen llamado 'nombre_volumen'
+
+# 4. Definir redes si es necesario (En este ejemplo no lo usaré).
+# networks:
+#   nombre_red: {} ## Definición de una red llamada 'nombre_red' 
+
