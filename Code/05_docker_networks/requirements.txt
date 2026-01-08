@@ -1,0 +1,2 @@
+fastmcp ## Librería FastMCP para crear servidores MCP
+httpx ## Cliente HTTP asíncrono para Python

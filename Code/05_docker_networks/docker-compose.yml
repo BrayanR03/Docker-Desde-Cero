@@ -1,0 +1,17 @@
+## Versión de Docker Compose
+version: "3.9"
+
+## Servicios o Contenedores a levantar
+services:
+  server_mcp: ## Nombre del servicio o contenedor
+    build: .  ## Construcción de la imagen desde el Dockerfile en el directorio actual
+    ports:    
+      - "8000:8000" ## Mapeo de puertos: host:contenedor
+    networks: 
+      - mcp_network ## Conexión a la red personalizada
+
+## Definición de redes personalizadas en docker 
+networks:
+  mcp_network:
+
+
