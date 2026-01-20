@@ -16,6 +16,7 @@
 | 03 | Port Mapping y Volúmenes | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-3-port-mapping-y-vol%C3%BAmenes) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7408147116302438423/) |
 | 04 | Docker Compose | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-4-docker-compose) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7409451886891655171/) |
 | 05 | Docker Networks | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-5-docker-networks) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7415396501621014528/) |
+| 06 | Docker Orchestation - Bases | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/docker-6-docker-orchestation-bases) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7419187035212648448/) |
 
 ---
 
@@ -30,6 +31,7 @@
 | 2025-12-20 | 🧱 Port Mapping y Volúmenes |
 | 2025-12-23 | 🧱 Docker Compose |
 | 2026-01-09 | 🧱 Docker Networks |
+| 2026-01-19 | 🧱 Docker Orchestation - Bases |
 
 
 
